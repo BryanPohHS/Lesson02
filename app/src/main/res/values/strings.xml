@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Second App</string>
+    <string name="logo">Logo</string>
+    <string name="register">REGISTRATION FORM</string>
+    <string name="firstName">First Name</string>
+    <string name="lastName">Last Name</string>
+    <string name="gender">Gender</string>
+    <string name="genderMale">Male</string>
+    <string name="genderFemale">Female</string>
+    <string name="studentID">Student ID</string>
+    <string name="email">E-mail Address</string>
+    <string name="phone">Phone Number</string>
+    <string name="school">School</string>
+    <string name="submitBtn">SUBMIT</string>
+</resources>
